@@ -2,4 +2,4 @@
 
 Code used to handle VPN installation and client profile generation. Based on:
 
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) project
+- **OpenVPN**: [angristan/openvpn-install](https://github.com/angristan/openvpn-install) project
