@@ -1099,6 +1099,7 @@ function newClient() {
 	fi
 
 	homeDir="/home/virbox/clients"
+ 	mkdir $homeDir
 
 	# Determine if we use tls-auth or tls-crypt
 	if grep -qs "^tls-crypt" /etc/openvpn/server.conf; then
